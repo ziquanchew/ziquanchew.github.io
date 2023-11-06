@@ -1,0 +1,20 @@
+.gradientbackground{
+    background: rgb(236,131,50);
+    background: linear-gradient(164deg, rgba(236,131,50,1) 31%, rgba(255,0,0,1) 66%);
+   
+}
+
+.jaycontainer{
+    width:93%;
+    height:25%;
+    margin:0;
+    padding-left: 6%;
+    padding-bottom: 5%;
+}
+
+.jay{
+    width:45%;
+    height:45%;
+    padding:1%;
+
+}
